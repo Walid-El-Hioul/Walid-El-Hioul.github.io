@@ -4,11 +4,13 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.2"
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
-# Essential plugins
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-archives"
-gem "jekyll-redirect-from"
+# Required plugins for the theme
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-archives"
+  gem "jekyll-sitemap"
+  gem "jekyll-redirect-from"
+end
 
 gem "html-proofer", "~> 5.0", group: :test
 
