@@ -14,7 +14,7 @@ timezone: Africa/Casablanca
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: NoMorExploit
+title: Walid El Hioul
 
 tagline: Cyber Defense & Security Research
 
@@ -32,7 +32,7 @@ github:
   username: Walid-El-Hioul # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: elhioul69271 # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -41,11 +41,9 @@ social:
   email: walidelhioul@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://x.com/elhioul69271 # change to your Twitter homepage
+    - https://github.com/Walid-El-Hioul # change to your GitHub homepage
+    - https://www.linkedin.com/in/Walid-El-Hioul # change to your LinkedIn homepage
 
 # Site Verification Settings
 webmaster_verifications:
@@ -101,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1914742866481451008/1MMTDlSq_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1936440232246673408/zGv3d_vs_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
