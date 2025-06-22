@@ -4,7 +4,6 @@ date: 2023-04-22 14:30:00 -0500
 categories: [cyberdefense, threat hunting]
 tags: [security, soc, threat intelligence, detection, blue team]
 image: /assets/img/threat-hunting-header.jpg
-published: false
 ---
 
 # Advanced Threat Hunting Techniques for SOC Teams
